@@ -1,6 +1,6 @@
 <h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### 😸 - I am a student at IES San Andrés in León, Spain.
+### 😸 - I am a self-taught programer
 ### 🍃 - This is my first try making my readme, hope you like it 😄
 ### ✨ - I like coding, animals and coffee
 
