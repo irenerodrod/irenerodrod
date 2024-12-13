@@ -44,4 +44,14 @@ Last Edited on : 15/05/2024
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="right">:ma
+<h2 align="right">:bar_chart: - Estadísticas de uso</h2>
+<section>
+  <h3>Estadísticas de GitHub</h3>
+  
+  <article align="left">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=irenerodrod&hide=stars,issues&count_private=true&show_icons=true&theme=gotham"/>
+    </a>
+  </article>
+  
+</section>
