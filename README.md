@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="right">:bar_chart: Estadísticas de uso</h2>
+<h2 align="left">:bar_chart: Estadísticas de uso</h2>
 
 <table align="center">
   <tr>
